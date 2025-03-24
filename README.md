@@ -30,5 +30,4 @@ This project automates the generation of Statements of Purpose (SOPs) for univer
 
 ---
 
-## 📁 Project Structure
 
